@@ -1,4 +1,4 @@
 Expected: Susan,
 Received: Joe
-Expected: 70,
+ 70,Expected:
 Received: 74
