@@ -1,6 +1,4 @@
-var name = "Joe"
-var height = "74"
-
-// Don't worry about this
-module.exports = { name, height
-}
+Expected: Susan,
+Received: Joe
+Expected: 70,
+Received: 74
