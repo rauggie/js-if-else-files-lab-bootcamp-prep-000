@@ -1,4 +1,3 @@
-Expected: Susan,
-Received: Joe
- 70,Expected:
-Received: 74
+
+The name is correct
+the hieght is correct
